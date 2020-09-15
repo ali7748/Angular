@@ -1,15 +1,15 @@
 # Readme
-in this repo I'm trying to learn,practice and maybe develope an **Angular** app or webpage.
+In This Repo I'm Trying To Learn,Practice And Maybe Develope An **Angular** App or WebPage.
 
-# Dependencies and usage:
-first Download and install [nodeJs](https://nodejs.org/en/) .
-then install Angular CLI by following Command:
+# Dependencies And Usage:
+First Download And Install The LTS Version of [NodeJs](https://nodejs.org/en/) ( Now Its on 12.18.3).
+Then Install Angular CLI By Following Command:
 ```
 $ npm install -g @angular/cli
 ```
-after that to run project:
+After That To Run Project:
 ```
 $ cd "file location"
 $ ng serve --open
 ```
-now you can see result on your localhost address in the browser .
+Now You Can See Result On Your Localhost In The Browser .
